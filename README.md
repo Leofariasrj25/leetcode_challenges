@@ -1,5 +1,5 @@
 # LeetCode Solutions
-
+![a programmer in runner's clothes seated in front of a computer](banner.png)
 This repository contains my solutions to various LeetCode problems. The solutions are organized by topics/patterns.
 
 ---
