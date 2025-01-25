@@ -52,9 +52,10 @@ This repository contains my solutions to various LeetCode problems. The solution
 <details open>
   <summary>Click to fold/expand</summary>
   
-| Id   | Problem                             | Difficulty | Solution |
-|------|-------------------------------------|------------|----------|
-| 20   | Valid Parentheses                   | Easy       | [Solution](/20.%20Valid%20Parentheses/ValidParentheses.java) |
+| Id     | Problem                             | Difficulty | Solution |
+|--------|-------------------------------------|------------|----------|
+| 20     | Valid Parentheses                   | Easy       | [Solution](/20.%20Valid%20Parentheses/ValidParentheses.java) |
+| 2390   | Removing Stars From a String        | Medium       | [Solution](/2390.%20Removing%20Stars%20From%20a%20String/RemoveStars.java) |
 
 </details>
 
