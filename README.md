@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 ---
 ### Array & Hashing
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
@@ -19,18 +19,19 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 ### Two Pointers
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
 
-| Id  | Problem     | Difficulty | Solution |
-|-----|-------------|------------|----------|
-| 283 | Move Zeroes | Easy       | [Solution](/283.%20Move%20Zeroes/MoveZeroes.java) |
+| Id      | Problem                   | Difficulty | Solution |
+|---------|---------------------------|------------|----------|
+| 11      | Container With Most Water | Medium     | [Solution](/11.%20Container%20With%20Most%20Water.java) |
+| 283     | Move Zeroes               | Easy       | [Solution](/283.%20Move%20Zeroes/MoveZeroes.java) |
 
 </details>
 
 
 ### Sliding Window
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
@@ -40,7 +41,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 ### Dynamic Programming
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
@@ -49,7 +50,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 ### Graphs
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
@@ -58,7 +59,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 ### Other Patterns
 <details open>
-  <summary>Click to expand</summary>
+  <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
