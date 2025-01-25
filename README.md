@@ -43,12 +43,13 @@ This repository contains my solutions to various LeetCode problems. The solution
 </details>
 
 
-### Dynamic Programming
+### Stack 
 <details open>
   <summary>Click to fold/expand</summary>
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
+| 20   | Valid Parentheses                   | Easy       | [Solution]() |
 
 </details>
 
