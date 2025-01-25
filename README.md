@@ -23,7 +23,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 | Id      | Problem                   | Difficulty | Solution |
 |---------|---------------------------|------------|----------|
-| 11      | Container With Most Water | Medium     | [Solution](/11.%20Container%20With%20Most%20Water.java) |
+| 11      | Container With Most Water | Medium     | [Solution](/11.%20Container%20With%20Most%20Water/ContainerWithMostWater.java) |
 | 167     | Two Sum II                | Medium     | [Solution](/167.%20Two%20Sum%20II%20-%20Array%20Is%20Sorted/TwoSumII.java) |
 | 283     | Move Zeroes               | Easy       | [Solution](/283.%20Move%20Zeroes/MoveZeroes.java) |
 | 392     | Is Subsequence            | Easy       | [Solution](/392.%20Is%20Subsequence/IsSubsequence.java) |
