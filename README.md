@@ -25,6 +25,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 |---------|---------------------------|------------|----------|
 | 11      | Container With Most Water | Medium     | [Solution](/11.%20Container%20With%20Most%20Water.java) |
 | 283     | Move Zeroes               | Easy       | [Solution](/283.%20Move%20Zeroes/MoveZeroes.java) |
+| 392     | Is Subsequence            | Easy       | [Solution](/283.%20Is%20Subsequence/IsSubsequence.java) |
 | 1679    | Max Number of K-Sum Pairs | Medium     | [Solution](/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfSumPairs.java) |
 
 </details>
