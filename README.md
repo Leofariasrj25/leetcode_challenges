@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | 242  | Valid Anagram                       | Easy       | [Solution](/242.%20Valid%20Anagram/ValidAnagram.java) |
 | 334  | Increasing Triplet Subsequence      | Medium     | [Solution]() |
 | 345  | Reverse Vowels of a String          | Easy       | [Solution](/345.%20Reverse%20Vowels%20Of%20A%20String/ReverseVowels.java) |
+| 443  | String Compression                  | Medium     | [Solution]() |
 | 1431 | Kid With Greatest Number of Candies | Easy       | [Solution](/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
 | 1768 | Merge Strings Alternately           | Easy       | [Solution](/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
 
