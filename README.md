@@ -5,10 +5,10 @@ This repository contains my solutions to various LeetCode problems. The problems
 ---
 
 ### Array & Hashing
-| Problem | Difficulty | Solution |
-|---------|------------|----------|
-| Contains Duplicate | Easy | [Solution](./217. Contains Duplicate/ContainsDuplicate.java) |
-| Merge Strings Alternately | Easy | [Solution](./1718. Merge Strings Alternately/MergeStringsAlternately.java) |
+Id | Problem | Difficulty | Solution |
+|---------|---------|------------|----------|
+| 217 | Contains Duplicate | Easy | [Solution](/217.%20Contains%20Duplicate/ContainsDuplicate.java) |
+| 1768 | Merge Strings Alternately | Easy | [Solution](/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
 
 ### Two Pointers
 | Problem | Difficulty | Solution |
