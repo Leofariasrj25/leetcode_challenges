@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 ---
 
 ### Array & Hashing
-Id | Problem | Difficulty | Solution |
+| Id | Problem | Difficulty | Solution |
 |---------|---------|------------|----------|
 | 1 | Two Sum | Easy | [Solution](/1.%20Two%20Sum/TwoSum.java) |
 | 217 | Contains Duplicate | Easy | [Solution](/217.%20Contains%20Duplicate/ContainsDuplicate.java) |
@@ -13,8 +13,8 @@ Id | Problem | Difficulty | Solution |
 | 1768 | Merge Strings Alternately | Easy | [Solution](/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
 
 ### Two Pointers
-| Problem | Difficulty | Solution |
-|---------|------------|----------|
+| Id | Problem | Difficulty | Solution |
+|---------|---------|------------|----------|
 | 283 | Move Zeroes | Easy | [Solution](/283.%20Move%20Zeroes/MoveZeroes.java) |
 
 ### Sliding Window
