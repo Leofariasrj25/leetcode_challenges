@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems. The problems are organized by topics/patterns.
+This repository contains my solutions to various LeetCode problems. The solutions are organized by topics/patterns.
 
 ---
 
@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems. The problems
 Id | Problem | Difficulty | Solution |
 |---------|---------|------------|----------|
 | 217 | Contains Duplicate | Easy | [Solution](/217.%20Contains%20Duplicate/ContainsDuplicate.java) |
+| 242 | Valid Anagram | Easy | [Solution](/242.$20Valid%20Anagram/ValidAnagram.java) |
 | 1768 | Merge Strings Alternately | Easy | [Solution](/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
 
 ### Two Pointers
