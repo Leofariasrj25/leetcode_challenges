@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems. The solution
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
+| 643  | Max Average Subarray I              | Easy | [Solution]()   |
 
 </details>
 
