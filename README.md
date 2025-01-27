@@ -1,6 +1,11 @@
 # LeetCode Solutions
 <div align="center">
-  <img src="banner.png">
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Challenges Solved](https://img.shields.io/badge/Challenges%20Solved-50+-brightgreen?style=flat) ![Daily Streak](https://img.shields.io/badge/Daily%20Streak-15-orange?style=flat)
+![LeetCode 75](https://img.shields.io/badge/LeetCode%2075-Challenge-FFA116?style=flat&logo=leetcode&logoColor=black) ![NeetCode 150](https://img.shields.io/badge/NeetCode%20150-Challenge-2F8D46?style=flat&logo=codeforces&logoColor=white)
+![Winter Arc](https://img.shields.io/badge/Winter%20Arc-On-1E90FF?style=flat&logo=snowflake&logoColor=white)
+
+  <br><img src="banner.png">
 </div>
 
 This repository contains my solutions to various LeetCode problems. The solutions are organized by topics/patterns.
