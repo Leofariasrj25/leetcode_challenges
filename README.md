@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | 443  | String Compression                  | Medium     | [Solution](/array%20and%20hashing/443.%20String%20Compression/StringCompression.java) |
 | 1431 | Kid With Greatest Number of Candies | Easy       | [Solution](/array%20and%20hashing/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
 | 1768 | Merge Strings Alternately           | Easy       | [Solution](/array%20and%20hashing/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
+| 3110 | Sum of a String                     | Easy       | [Solution](/array%20and%20hashing/3110.%20Score%20of%20a%20String/StringScore.java) |
 
 </details>
 
