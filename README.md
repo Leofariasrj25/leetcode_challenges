@@ -17,16 +17,18 @@ This repository contains my solutions to various LeetCode problems. The solution
   
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
-| 1    | Two Sum                             | Easy       | [Solution](/array%20and%20hashing/1.%20Two%20Sum/TwoSum.java) |
-| 151  | Reverse Words in a String           | Medium     | [Solution](/array%20and%20hashing/151.%20Reverse%20Words%20in%20a%20String/ReverseWords.java) |
-| 217  | Contains Duplicate                  | Easy       | [Solution](/array%20and%20hashing/217.%20Contains%20Duplicate/ContainsDuplicate.java) |
-| 242  | Valid Anagram                       | Easy       | [Solution](/array%20and%20hashing/242.%20Valid%20Anagram/ValidAnagram.java) |
-| 334  | Increasing Triplet Subsequence      | Medium     | [Solution](/array%20and%20hashing/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java) |
-| 345  | Reverse Vowels of a String          | Easy       | [Solution](/array%20and%20hashing/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.java) |
-| 443  | String Compression                  | Medium     | [Solution](/array%20and%20hashing/443.%20String%20Compression/StringCompression.java) |
-| 1431 | Kid With Greatest Number of Candies | Easy       | [Solution](/array%20and%20hashing/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
-| 1768 | Merge Strings Alternately           | Easy       | [Solution](/array%20and%20hashing/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
-| 3110 | Sum of a String                     | Easy       | [Solution](/array%20and%20hashing/3110.%20Score%20of%20a%20String/StringScore.java) |
+| 1    | Two Sum                             | Easy       | [Solutions](/array%20and%20hashing/1.%20Two%20Sum/) |
+| 151  | Reverse Words in a String           | Medium     | [Solutions](/array%20and%20hashing/151.%20Reverse%20Words%20in%20a%20String/) |
+| 217  | Contains Duplicate                  | Easy       | [Solutions](/array%20and%20hashing/217.%20Contains%20Duplicate/) |
+| 242  | Valid Anagram                       | Easy       | [Solutions](/array%20and%20hashing/242.%20Valid%20Anagram/) |
+| 334  | Increasing Triplet Subsequence      | Medium     | [Solutions](/array%20and%20hashing/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java) |
+| 345  | Reverse Vowels of a String          | Easy       | [Solutions](/array%20and%20hashing/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.java) |
+| 443  | String Compression                  | Medium     | [Solutions](/array%20and%20hashing/443.%20String%20Compression/StringCompression.java) |
+| 1299 | Replace Elements with Greatest on Right Side     | Easy       | [Solutions]() |
+| 1431 | Kid With Greatest Number of Candies | Easy       | [Solutions](/array%20and%20hashing/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
+| 1768 | Merge Strings Alternately           | Easy       | [Solutions](/array%20and%20hashing/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
+| 1929 | Concatenation of Array              | Easy       | [Solutions](/array%20and%20hashing/1929.%20Concatenation%20of%20Array/ConcatenationArray.java) |
+| 3110 | Sum of a String                     | Easy       | [Solutions](/array%20and%20hashing/3110.%20Score%20of%20a%20String/StringScore.java) |
 
 </details>
 
@@ -65,6 +67,16 @@ This repository contains my solutions to various LeetCode problems. The solution
 |--------|-------------------------------------|------------|----------|
 | 20     | Valid Parentheses                   | Easy       | [Solution](/stack/20.%20Valid%20Parentheses/ValidParentheses.java) |
 | 2390   | Removing Stars From a String        | Medium       | [Solution](/stack/2390.%20Removing%20Stars%20From%20a%20String/RemoveStars.java) |
+
+</details>
+
+### Math 
+<details open>
+  <summary>Click to fold/expand</summary>
+  
+| Id     | Problem                             | Difficulty | Solution |
+|--------|-------------------------------------|------------|----------|
+| 66     |  Plus One                           | Easy       | [Solution](/math/66.%20Plus%20One/) |
 
 </details>
 
