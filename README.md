@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | 242  | Valid Anagram                       | Easy       | [Solutions](/array%20and%20hashing/242.%20Valid%20Anagram/) |
 | 334  | Increasing Triplet Subsequence      | Medium     | [Solutions](/array%20and%20hashing/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java) |
 | 345  | Reverse Vowels of a String          | Easy       | [Solutions](/array%20and%20hashing/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.java) |
+| 412  | Fizz Buzz                           | Easy       | [Solutions](/array%20and%20hashing/%412.%20Fizz%20Buzz/) |
 | 443  | String Compression                  | Medium     | [Solutions](/array%20and%20hashing/443.%20String%20Compression/StringCompression.java) |
 | 1299 | Replace Elements with Greatest on Right Side     | Easy       | [Solutions]() |
 | 1431 | Kid With Greatest Number of Candies | Easy       | [Solutions](/array%20and%20hashing/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
