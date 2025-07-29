@@ -79,6 +79,7 @@ This repository contains my solutions to various LeetCode problems. The solution
   
 | Id     | Problem                             | Difficulty | Solution |
 |--------|-------------------------------------|------------|----------|
+| 9      |  Palindrome Number                  | Easy       | [Solution](/math/9.%20Palindrome%20Number/) |
 | 66     |  Plus One                           | Easy       | [Solution](/math/66.%20Plus%20One/) |
 
 </details>
