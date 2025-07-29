@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | Id      | Problem                   | Difficulty | Solution |
 |---------|---------------------------|------------|----------|
 | 11      | Container With Most Water | Medium     | [Solution](/two%20pointers/11.%20Container%20With%20Most%20Water/ContainerWithMostWater.java) |
+| 15      | 3Sum                      | Medium     | [Solution](/two%20pointers/15.%203Sum/) |
 | 125     | Valid Palindrome          | Medium     | [Solution](/two%20pointers/125.%20Valid%20Palindrome/ValidPalindrome.java) |
 | 167     | Two Sum II                | Medium     | [Solution](/two%20pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/TwoSumII.java) |
 | 283     | Move Zeroes               | Easy       | [Solution](/two%20pointers/283.%20Move%20Zeroes/MoveZeroes.java) |
