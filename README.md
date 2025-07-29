@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | Id   | Problem                             | Difficulty | Solution |
 |------|-------------------------------------|------------|----------|
 | 1    | Two Sum                             | Easy       | [Solutions](/array%20and%20hashing/1.%20Two%20Sum/) |
+| 58   | Length of Last Word                 | Easy       | [Solutions](/array%20and%20hashing/1.%20Length%20of%20Last%20Word/) |
 | 151  | Reverse Words in a String           | Medium     | [Solutions](/array%20and%20hashing/151.%20Reverse%20Words%20in%20a%20String/) |
 | 217  | Contains Duplicate                  | Easy       | [Solutions](/array%20and%20hashing/217.%20Contains%20Duplicate/) |
 | 219  | Contains Duplicate II               | Easy       | [Solutions](/array%20and%20hashing/219.%20Contains%20Duplicate%20II/) |
