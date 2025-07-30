@@ -57,9 +57,10 @@ This repository contains my solutions to various LeetCode problems. The solution
 <details open>
   <summary>Click to fold/expand</summary>
   
-| Id   | Problem                             | Difficulty | Solution |
-|------|-------------------------------------|------------|----------|
-| 643  | Max Average Subarray I              | Easy | [Solution]()   |
+| Id   | Problem                                                            | Difficulty | Solution |
+|------|--------------------------------------------------------------------|------------|----------|
+| 643  | Max Average Subarray I                                             | Easy       | [Solutions]()   |
+| 1456 | Maximum Numbers of Vowels in a Substring of Given Length           | Medium     | [Solutions]()   |
 
 </details>
 
