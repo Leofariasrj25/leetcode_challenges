@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | 1431 | Kid With Greatest Number of Candies | Easy       | [Solutions](/array%20and%20hashing/1431.%20Kid%20With%20The%20Greatest%20Number%20of%20Candies/KidMaxCandies.java) |
 | 1768 | Merge Strings Alternately           | Easy       | [Solutions](/array%20and%20hashing/1718.%20Merge%20String%20Alternately/MergeStringsAlternately.java) |
 | 1929 | Concatenation of Array              | Easy       | [Solutions](/array%20and%20hashing/1929.%20Concatenation%20of%20Array/ConcatenationArray.java) |
+| 2678 | Number of Senior Citizens           | Easy       | [Solutions](/array%20and%20hashing/2678.%20Number%20of%20Senior%20Citizens/) |
 | 3110 | Sum of a String                     | Easy       | [Solutions](/array%20and%20hashing/3110.%20Score%20of%20a%20String/StringScore.java) |
 
 </details>
