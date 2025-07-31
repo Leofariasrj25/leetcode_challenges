@@ -90,6 +90,16 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 </details>
 
+### Dynamic Programmiing 
+<details open>
+  <summary>Click to fold/expand</summary>
+  
+| Id     | Problem                             | Difficulty | Solution |
+|--------|-------------------------------------|------------|----------|
+| 118    |  Pascals Triangle                   | Easy       | [Solution](/dynamic%20programming/118.%20Pascals%20Triangle/) |
+
+</details>
+
 ### Graphs
 <details open>
   <summary>Click to fold/expand</summary>
