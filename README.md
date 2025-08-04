@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 | 217  | Contains Duplicate                  | Easy       | [Solutions](/array%20and%20hashing/217.%20Contains%20Duplicate/) |
 | 219  | Contains Duplicate II               | Easy       | [Solutions](/array%20and%20hashing/219.%20Contains%20Duplicate%20II/) |
 | 242  | Valid Anagram                       | Easy       | [Solutions](/array%20and%20hashing/242.%20Valid%20Anagram/) |
+| 271  | Encode and Decode Strings           | Medium     | [Solutions](/array%20and%20hashing/271.%20Encode%20and%20Decode%20Strings/) |
 | 334  | Increasing Triplet Subsequence      | Medium     | [Solutions](/array%20and%20hashing/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java) |
 | 345  | Reverse Vowels of a String          | Easy       | [Solutions](/array%20and%20hashing/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.java) |
 | 412  | Fizz Buzz                           | Easy       | [Solutions](/array%20and%20hashing/%412.%20Fizz%20Buzz/) |
