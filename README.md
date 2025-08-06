@@ -86,10 +86,11 @@ This repository contains my solutions to various LeetCode problems. The solution
   
 | Id     | Problem                             | Difficulty | Solution |
 |--------|-------------------------------------|------------|----------|
-| 9      |  Palindrome Number                  | Easy       | [Solution](/math/9.%20Palindrome%20Number/) |
-| 66     |  Plus One                           | Easy       | [Solution](/math/66.%20Plus%20One/) |
-| 66     |  Excel Sheet Column Title           | Easy       | [Solution](/math/66.%20Excel%20Sheet%20Column%20Title/) |
-| 867    |  Transpose Matrix                   | Easy       | [Solution](/math/867.%20Tranpose%20Matrix/) |
+| 9      |  Palindrome Number                  | Easy       | [Solutions](/math/9.%20Palindrome%20Number/) |
+| 48     |  Rotate Image                       | Medium     | [Solutions](/math/48.%20Rotate%20Image/) |
+| 66     |  Plus One                           | Easy       | [Solutions](/math/66.%20Plus%20One/) |
+| 168    |  Excel Sheet Column Title           | Easy       | [Solutions](/math/168.%20Excel%20Sheet%20Column%20Title/) |
+| 867    |  Transpose Matrix                   | Easy       | [Solutions](/math/867.%20Transpose%20Matrix/) |
 
 </details>
 
