@@ -45,14 +45,15 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 | Id      | Problem                   | Difficulty | Solution |
 |---------|---------------------------|------------|----------|
-| 11      | Container With Most Water | Medium     | [Solution](/two%20pointers/11.%20Container%20With%20Most%20Water/ContainerWithMostWater.java) |
+| 11      | Container With Most Water | Medium     | [Solutions](/two%20pointers/11.%20Container%20With%20Most%20Water/) |
 | 15      | 3Sum                      | Medium     | [Solutions](/two%20pointers/15.%203Sum/) |
 | 26      | Remove Duplicates From Sorted Array    | Easy     | [Solutions](/two%20pointers/26.%20Remove%20Duplicates%20From%20Sorted%20Array/) |
-| 125     | Valid Palindrome          | Medium     | [Solution](/two%20pointers/125.%20Valid%20Palindrome/ValidPalindrome.java) |
-| 167     | Two Sum II                | Medium     | [Solution](/two%20pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/TwoSumII.java) |
-| 283     | Move Zeroes               | Easy       | [Solution](/two%20pointers/283.%20Move%20Zeroes/MoveZeroes.java) |
-| 392     | Is Subsequence            | Easy       | [Solution](/two%20pointers/392.%20Is%20Subsequence/IsSubsequence.java) |
-| 1679    | Max Number of K-Sum Pairs | Medium     | [Solution](/two%20pointers/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfSumPairs.java) |
+| 125     | Valid Palindrome          | Medium     | [Solutions](/two%20pointers/125.%20Valid%20Palindrome/ValidPalindrome.java) |
+| 167     | Two Sum II                | Medium     | [Solutions](/two%20pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/TwoSumII.java) |
+| 283     | Move Zeroes               | Easy       | [Solutions](/two%20pointers/283.%20Move%20Zeroes/MoveZeroes.java) |
+| 344     | Reverse String            | Easy       | [Solutions](/two%20pointers/344.%20Reverse%20String/) |
+| 392     | Is Subsequence            | Easy       | [Solutions](/two%20pointers/392.%20Is%20Subsequence/IsSubsequence.java) |
+| 1679    | Max Number of K-Sum Pairs | Medium     | [Solutions](/two%20pointers/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfSumPairs.java) |
 
 </details>
 
